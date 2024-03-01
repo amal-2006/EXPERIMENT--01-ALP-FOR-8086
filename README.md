@@ -122,7 +122,7 @@ ret
 ### Output:  
 ![Division](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/b519056c-c5c7-420c-a756-c781bfbaf1b2)
 
-## Program for arithmetic  operations
+## Program for logical  operations
 
 org 100H  
 
