@@ -152,8 +152,50 @@ mov [1364H],AX;
 
 ret                                                        
 
-### Output  
+### Output:  
 ![Division](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/b519056c-c5c7-420c-a756-c781bfbaf1b2)
+
+## Program for arithmetic  operations
+
+org 100H  
+
+MOV SI,0532H;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H;
+
+OR AX,BX;
+
+MOV [SI],AX;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H;
+
+AND AX,BX; 
+
+MOV [SI+2],AX;
+
+MOV AX,0A32H;
+
+MOV BX,0B13H; 
+
+XOR AX,BX;    
+
+MOV [SI+4],AX;
+
+MOV AX,0A32H;
+
+NOT AX; 
+
+MOV [SI+6],AX;
+
+ret 
+
+### Output:
+![Logical Operators](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/69b341bd-d8c5-4911-bfac-829daa209c65)
+
 
 
 ## Result :
