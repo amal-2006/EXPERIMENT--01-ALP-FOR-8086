@@ -33,7 +33,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 8.	 
 
-![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
+![189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04](https://github.com/amal-2006/EXPERIMENT--01-ALP-FOR-8086/assets/148410730/74a4a1c2-85b5-4f1e-8988-9ef9bb3a9a03)
+
 
 9.	Click on emulate to start emulation 
 
