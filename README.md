@@ -1,12 +1,8 @@
-# EXPERIMENT 01: ALP FOR 8086
 Name : AMALJOSH MAADHAV J
 
-Roll no : 212223230012
+Register no : 212223230012
 
-Date of experiment :
-
-
-
+# EXPERIMENT 01: ALP FOR 8086
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
